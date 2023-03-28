@@ -41,8 +41,3 @@ S3에 저장된 이미지를 원하는 크기에 맞게 리사이징하는 프�
 - zip -r [결과물.zip] *
 - zip파일을 lambda에 업로드
 
-
-## 7. 참조 인프라 
-- CloudFront: E3PPDFRO6BKS7E
-- Lambda: lambda-image-resize(us-east-1)
-- S3: resizing-image-leo
